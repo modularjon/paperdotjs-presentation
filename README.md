@@ -35,7 +35,7 @@ by the Adobe programs Photoshop and Illustrator, respectively.
 1.  Fork and clone this repository.
 1.  Create a new branch for your work.
 1.  Install paper with `npm install paper`.
-1.  Run grunt serve, and navigate your browser to <http://localhost:8080>.
+1.  Run `grunt serve`, and navigate your browser to <http://localhost:8080>.
 
 If you run into any problems, excellent documentation is provided at
 [this site](https://www.npmjs.com/package/paper). There are also instructions
