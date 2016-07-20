@@ -13,8 +13,9 @@ now implement much of the same functionality that it's progenitor provided.
 ## Vector graphics? Wut?
 
 If you aren't familiar with the difference between raster and vector graphics:
-  • <https://en.wikipedia.org/wiki/Raster_graphics>
-  • <https://en.wikipedia.org/wiki/Vector_graphics>
+
+-   <https://en.wikipedia.org/wiki/Raster_graphics>
+-   <https://en.wikipedia.org/wiki/Vector_graphics>
 
 Basically raster graphics are just images described by bitmap, while vector
 graphics are described using the mathematics of polygons. They are represented
@@ -57,11 +58,11 @@ ready. You can see in assets/scripts/index.js that the first method invoked is
 paper.install(window). After this, we can then create different event handlers
 that can then be called to start whatever drawing we wish to create:
 
-• Simple line
-• Rotating rectangle and smoothing
-• Circles and anchor points
-• A user drawing tool!
-• Describing, copying and deleting styles
+-   Simple line
+-   Rotating rectangle and smoothing
+-   Circles and anchor points
+-   A user drawing tool!
+-   Describing, copying and deleting styles
 
 ## Additional Resources
 
